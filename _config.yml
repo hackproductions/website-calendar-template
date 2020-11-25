@@ -1,0 +1,9 @@
+title: "Schedule Template"
+email: hello@hack.productions
+description: >- 
+  Schedule from Google Calendar
+baseurl: "/" 
+url: "REPLACE ME" 
+
+sass:
+  sass_dir: _sass
